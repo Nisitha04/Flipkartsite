@@ -3,7 +3,7 @@ import bbanner from '../assets/pictures/bbanner.jpeg';
 import electricCycle from '../assets/images/electricCycle.jpeg';
 import Stationery from '../assets/images/Stationery.jpeg';
 import gearedCycle from '../assets/images/gearedCycle.jpeg';
-import actionToys from '../assets/images/actionToys.jpeg';
+import actiontoys from '../assets/images/actiontoys.jpeg';
 import toys from '../assets/images/toys.jpeg';
 import coffee from '../assets/images/coffee.jpeg';
 import nonGeared from '../assets/images/nonGeared.jpeg';
@@ -16,7 +16,7 @@ const Beauty = () => {
     { src: electricCycle, title: "Electric Cycle", offer: "Up to 40% off" },
     { src: Stationery, title: "Top Selling Stationery", offer: "From ₹49*" },
     { src: gearedCycle, title: "Geared Cycles", offer: "Up to 70% off" },
-    { src: actionToys, title: "Best of Action Toys", offer: "From ₹500*" },
+    { src: actiontoys, title: "Best of Action Toys", offer: "From ₹500*" },
     { src: toys, title: "Remote Control Toys", offer: "Up to 80% off" },
     { src: coffee, title: "Coffee Powder", offer: "Up to 80% off" },
     { src: nonGeared, title: "Non-Geared Cycles", offer: "Up to 40% off" },
