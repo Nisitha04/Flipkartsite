@@ -8,7 +8,7 @@ import toys from '../assets/images/toys.jpeg';
 import coffee from '../assets/images/coffee.jpeg';
 import nonGeared from '../assets/images/nonGeared.jpeg';
 import softToys from '../assets/images/softToys.jpeg';
-import yogaMat from '../assets/images/yogaMat.jpeg';
+import yogamat from '../assets/images/yogamat.jpeg';
 import cereal from '../assets/images/cereal.jpeg';
 
 const Beauty = () => {
@@ -21,7 +21,7 @@ const Beauty = () => {
     { src: coffee, title: "Coffee Powder", offer: "Up to 80% off" },
     { src: nonGeared, title: "Non-Geared Cycles", offer: "Up to 40% off" },
     { src: softToys, title: "Soft Toys", offer: "Up to 70% off" },
-    { src: yogaMat, title: "Yoga Mat", offer: "From ₹284*" },
+    { src: yogamat, title: "Yoga Mat", offer: "From ₹284*" },
     { src: cereal, title: "Breakfast Cereal", offer: "From ₹109*" },
   ];
 
