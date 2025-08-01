@@ -1,7 +1,7 @@
 import React from 'react';
 import bbanner from '../assets/pictures/bbanner.jpeg';
 import electricCycle from '../assets/images/electricCycle.jpeg';
-import stationery from '../assets/images/stationery.jpeg';
+import Stationery from '../assets/images/Stationery.jpeg';
 import gearedCycle from '../assets/images/gearedCycle.jpeg';
 import actionToys from '../assets/images/actionToys.jpeg';
 import toys from '../assets/images/toys.jpeg';
@@ -14,7 +14,7 @@ import cereal from '../assets/images/cereal.jpeg';
 const Beauty = () => {
   const beautyItems = [
     { src: electricCycle, title: "Electric Cycle", offer: "Up to 40% off" },
-    { src: stationery, title: "Top Selling Stationery", offer: "From ₹49*" },
+    { src: Stationery, title: "Top Selling Stationery", offer: "From ₹49*" },
     { src: gearedCycle, title: "Geared Cycles", offer: "Up to 70% off" },
     { src: actionToys, title: "Best of Action Toys", offer: "From ₹500*" },
     { src: toys, title: "Remote Control Toys", offer: "Up to 80% off" },
